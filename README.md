@@ -1,9 +1,9 @@
 # MCP-Based AI Assistant
 
 A modern full-stack AI assistant for project and task management. Users chat with the assistant to create projects, add tasks, list work, and update progress. The backend exposes normal REST endpoints and an MCP-style tool registry that the AI layer can invoke through OpenRouter function calling.
+<img width="1307" height="837" alt="Screenshot 2026-05-27 125425" src="https://github.com/user-attachments/assets/a2d4502a-d960-44b3-8d9b-8dbb586ef7a4" />
 
 <img width="1329" height="839" alt="Screenshot 2026-05-27 130348" src="https://github.com/user-attachments/assets/c7b26bbd-669c-4cc4-b835-d5b66bd0ea88" />
-<img width="1307" height="837" alt="Screenshot 2026-05-27 125425" src="https://github.com/user-attachments/assets/a2d4502a-d960-44b3-8d9b-8dbb586ef7a4" />
 
 
 
